@@ -1,2 +1,2 @@
-NexaTransmitter		KEYWORD1
-setSwitch		KEYWORD2
+NexaTransmitter	KEYWORD1
+setSwitch	KEYWORD2
